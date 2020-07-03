@@ -81,7 +81,7 @@ def get_pairs_fun(arg):
     res = pd.DataFrame(res_dict)
     return res
 
-class DaModel(tf.keras.Model):
+class Bira(tf.keras.Model):
     def __init__(self,
                  data_source=None,
                  data_target=None,
@@ -94,7 +94,6 @@ class DaModel(tf.keras.Model):
         self.data_source = data_source
         self.data_target = data_target
         self.data_pairs = data_pairs
-        self.mapping = tissue_mapping
         self.class_weights = []
         
 #         self.neg_loss = []
