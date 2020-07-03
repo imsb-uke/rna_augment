@@ -16,7 +16,7 @@ backcall==0.1.0
 bash-kernel==0.7.2
 beautifulsoup4==4.8.1
 binaryornot==0.4.4
-bleach==3.1.0
+bleach==3.1.4
 blinker==1.4
 bokeh==1.4.0
 bz2file==0.98
