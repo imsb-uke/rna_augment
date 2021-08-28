@@ -5,9 +5,9 @@ authors:
   given-names: "Hannes"
 - family-names: "Sven"
   given-names: "Heins"
-  - family-names: "Kloiber"
+- family-names: "Kloiber"
   given-names: "Karin"
-  - family-names: "Bonn"
+- family-names: "Bonn"
   given-names: "Stefan"
 title: "Bias invariant RNA-seq metadata annotation"
 version: 1.0.0
